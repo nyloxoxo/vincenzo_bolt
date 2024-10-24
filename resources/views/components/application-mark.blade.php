@@ -1,0 +1,1 @@
+<span class="text-gray-900 dark:text-white text-xl font-bold">Vincenzo</span>
